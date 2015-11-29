@@ -15,7 +15,7 @@ URL:		http://github.com/andymccurdy/redis-py
 Source0:	https://pypi.python.org/packages/source/r/redis/redis-2.10.5.tar.gz
 # Source0-md5:	3b26c2b9703b4b56b30a1ad508e31083
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.612
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-setuptools
 %{?with_tests:BuildRequires:	python-pytest}
