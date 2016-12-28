@@ -8,7 +8,7 @@
 Summary:	A Python client for redis
 Name:		python-%{module}
 Version:	2.10.5
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Languages
 URL:		http://github.com/andymccurdy/redis-py
